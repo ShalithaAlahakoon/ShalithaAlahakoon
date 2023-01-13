@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
